@@ -1,0 +1,5 @@
+Customer_ID,Account_Balance,Transaction_Amount,Reported_Amount,Currency,Country,Transaction_Date,Risk_Score,Transaction_Validation,Account_Validation,Date_Validation,Anomaly_Flag
+1001,15000,500,500,USD,US,2/25/2025,0,Valid,Valid,Valid,1
+1002,32000,1200,1200,EUR,DE,2/20/2025,0,Valid,Valid,Valid,1
+1003,-5000,300,300,GBP,UK,2/18/2025,0,Valid,Negative Account Balance,Valid,1
+1004,70000,2000,1800,USD,US,2/28/2025,1,Mismatch in Transaction Amount,Valid,Valid,-1

@@ -1,0 +1,3 @@
+Challenge Overview
+Regulatory reporting in the banking sector involves compiling vast amounts of data to meet compliance requirements. A critical aspect of this process is data profiling, which ensures that the reported data aligns with regulatory reporting instructions. Traditionally, this involves manually defining profiling rules based on the underlying data and regulatory requirements.
+This challenge aims to automate data profiling using Generative AI (LLMs) and unsupervised machine learning techniques. Participants will leverage freely available tools to develop a solution that can generate data profiling rules, perform adaptive risk scoring, and suggest remediation actions based on regulatory reporting instructions.
